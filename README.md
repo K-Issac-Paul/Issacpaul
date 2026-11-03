@@ -20,7 +20,6 @@ I'm passionate about building software, solving problems, and exploring emerging
 
 With a background in technical training, I enjoy breaking down complex programming concepts and transforming ideas into practical applications.
 
-- 🔭 **Currently working on:** GPRM – an application I'm developing with Base44.
 - 🌱 **Currently exploring:** Python, SQL, Generative AI and AI Engineering.
 - 💡 **Interested in:** Software Development, Full Stack Development and AI-powered applications.
 - 🧠 **Problem solving:** Practicing Data Structures and Algorithms.
